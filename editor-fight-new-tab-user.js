@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name           [Leek Wars] Editor-fight - new tab
-// @namespace      https://github.com/PerthuisQuentin/Leek-Wars-Scripts/
+// @namespace      https://github.com/XpliSyL/Leek-Wars-Scripts/
 // @version        0.4
 // @description    Lance les tests dans un nouvel onglet
 // @author         XpliciT sur la base de Twilight
 // @projectPage    https://github.com/XpliSyl/Leek-Wars-Scripts/
-// @updateURL      https://github.com/PerthuisQuentin/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
-// @downloadURL    https://github.com/PerthuisQuentin/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
+// @updateURL      https://github.com/XpliSyl/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
+// @downloadURL    https://github.com/XpliSyl/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
 // @match          *://*.leekwars.com/*
 // @grant          none
 // ==/UserScript==
