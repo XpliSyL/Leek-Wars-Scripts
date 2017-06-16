@@ -4,9 +4,9 @@
 // @version        0.4
 // @description    Lance les tests dans un nouvel onglet
 // @author         XpliciT sur la base de Twilight
-// @projectPage    https://github.com/XpliSyl/Leek-Wars-Scripts/
-// @updateURL      https://github.com/XpliSyl/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
-// @downloadURL    https://github.com/XpliSyl/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
+// @projectPage    https://github.com/XpliSyL/Leek-Wars-Scripts/
+// @updateURL      https://github.com/XpliSyL/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
+// @downloadURL    https://github.com/XpliSyL/Leek-Wars-Scripts/raw/master/EditorFightNewTab/editor-fight-new-tab.user.js
 // @match          *://*.leekwars.com/*
 // @grant          none
 // ==/UserScript==
